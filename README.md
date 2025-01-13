@@ -1,8 +1,12 @@
 # Spreadsheet Application - University Assignment  
 
 This project is a **university assignment** for a Computer Science course.
+
 It demonstrates the implementation of a simple spreadsheet application with features like formula evaluation, cell referencing, and error detection. 
-The primary goal is to apply core programming concepts such as **object-oriented design**, **data structures**, and **algorithmic problem-solving** in a practical context.
+
+The primary goal is to apply core programming concepts such as **object-oriented design**, **data structures**, and 
+
+**algorithmic problem-solving** in a practical context.
 
 ---
 
