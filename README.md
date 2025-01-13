@@ -10,6 +10,14 @@ The primary goal is to apply core programming concepts such as **object-oriented
 
 ---
 
+##📖 Overview
+
+The spreadsheet application simulates basic functionality found in professional tools like Microsoft Excel or Google Sheets. 
+
+Users can input formulas, reference other cells, and receive real-time feedback on errors. This assignment emphasizes both 
+
+technical accuracy and robust error handling to deliver a reliable solution.
+
 ## 📖 Features  
 
 - **Formula Evaluation**: Supports basic mathematical operations (e.g., `=1+2*3`).
@@ -37,14 +45,23 @@ The primary goal is to apply core programming concepts such as **object-oriented
 
 ---
 
-## 🌟 Future Enhancements  
+##🌟 Future Enhancements
 
-1. Adding support for advanced functions like `SUM` and `AVG`.
+Advanced Functions:
 
-2. Implementing a graphical user interface (GUI) for better user interaction.
-  
-4. Expanding file support for import/export capabilities.  
+Extend functionality to include operations like SUM, AVG, and conditional formulas.
+
+User-Friendly GUI:
+
+Add a graphical user interface to allow users to interact with the spreadsheet visually.
+
+File Support:
+
+Enable importing and exporting spreadsheets in common formats like .csv or .xlsx.
+
+Performance Optimization:
+
+Optimize formula evaluation and error detection for larger spreadsheets.
 
 ---
-
 This assignment showcases practical programming skills while providing a strong foundation for developing advanced spreadsheet systems.
