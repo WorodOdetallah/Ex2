@@ -10,7 +10,7 @@ The primary goal is to apply core programming concepts such as **object-oriented
 
 ---
 
-##📖 Overview
+📖 Overview
 
 The spreadsheet application simulates basic functionality found in professional tools like Microsoft Excel or Google Sheets. 
 
@@ -45,7 +45,7 @@ technical accuracy and robust error handling to deliver a reliable solution.
 
 ---
 
-##🌟 Future Enhancements
+🌟 Future Enhancements
 
 Advanced Functions:
 
