@@ -68,7 +68,7 @@ public class SCell implements Cell {
             return result != null ? Double.parseDouble(result) : null;
         }
 
-        // Add your arithmetic operations handling logic here (e.g., +, -, *, /).
+      
 
         throw new UnsupportedOperationException("Complex formulas not yet supported");
     }
